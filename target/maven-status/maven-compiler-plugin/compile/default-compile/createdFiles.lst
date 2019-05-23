@@ -1,0 +1,5 @@
+com\siemens\camerapoc\service\impl\CameraPOCServiceImpl.class
+com\siemens\camerapoc\main\CameraPOCController.class
+com\siemens\camerapoc\beans\UserDetailsBean.class
+com\siemens\camerapoc\beans\CameraImageBean.class
+com\siemens\camerapoc\main\SpringBootToStoreImages.class
