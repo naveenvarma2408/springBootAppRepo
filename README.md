@@ -1,3 +1,3 @@
 # springBootAppRepo
 Open Source Repo For Development
-For Testing.
+For Testing application
